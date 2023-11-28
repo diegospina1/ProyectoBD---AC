@@ -1,0 +1,5 @@
+co\edu\ue\AgendacionCitas.class
+co\edu\ue\entities\Telefonos.class
+co\edu\ue\entities\Pacientes.class
+co\edu\ue\entities\Doctores.class
+co\edu\ue\util\Conexion.class
